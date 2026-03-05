@@ -98,27 +98,6 @@ flowchart LR
 
 ---
 
-# 📈 Measurable Engineering Impact
-
-## Performance Optimization
-
-- API latency reduced from **3s → 200ms**
-- Memory usage reduced from **98% → 70%**
-- Eliminated daily production crashes
-- Designed services processing millions of records
-
----
-
-## Quality & Stability
-
-- 50% reduction in production bugs
-- Standardized NestJS across engineering teams
-- Removed unstable internal libraries
-- Introduced TDD and architectural review standards
-
-
----
-
 # 🧰 Technical Stack
 
 <div align="center">
