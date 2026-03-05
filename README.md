@@ -116,39 +116,6 @@ flowchart LR
 - Removed unstable internal libraries
 - Introduced TDD and architectural review standards
 
----
-
-## Delivery Acceleration
-
-- Sprint capacity increased from **25 → 50 story points**
-- Product cycle reduced from **8 months → 3 months**
-- Feature delivery reduced from **1–2 months → 1–2 weeks**
-- Achieved 70% on-time delivery rate
-
----
-
-## DevOps & Cloud Engineering
-
-- Containerized development environments (2 days → hours setup time)
-- Migrated on-prem services to Azure
-- Built and maintained CI/CD pipelines
-- Reduced deployment-related incidents through release ownership
-
----
-
-# ⚙ System Evolution Strategy
-
-```
-Legacy Monolith
-      ↓
-Modular Refactor
-      ↓
-DDD + Hexagonal Architecture
-      ↓
-Event-Oriented Services
-      ↓
-Scalable Distributed Platform
-```
 
 ---
 
@@ -189,6 +156,6 @@ Maintainability is a long-term competitive advantage.
 <div align="center">
 
 📩 victorleal190@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+🔗 LinkedIn: [Go Here](https://es.linkedin.com/in/victor-martinez-755921196/es)
 
 </div>
