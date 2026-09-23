@@ -17,86 +17,14 @@ I design, modernize, and scale backend systems that support high-load environmen
 My work centers on:
 
 - Migrating legacy architectures into structured domain-driven systems  
-- Improving performance and operational reliability  
-- Enforcing architectural standards across teams  
+- Improving performance and operational reliability
+- Enforcing architectural standards across teams
 - Designing distributed systems aligned with long-term scalability  
 
 I operate across architecture strategy, hands-on backend engineering, and DevOps-aware system design.
 
 ---
 
-# 🏗 Architecture & System Design
-
-<div align="center">
-
-```mermaid
-flowchart LR
-    Domain --> Application
-    Application --> Infrastructure
-    Infrastructure --> Cloud
-```
-
-</div>
-
-### Architectural Foundations
-
-<table>
-<tr>
-<td width="50%">
-
-#### Domain Modeling
-- Domain-Driven Design (DDD)
-- Bounded Context definition
-- Aggregates & Repository patterns
-- Ubiquitous Language enforcement
-
-</td>
-<td width="50%">
-
-#### Structural Architecture
-- Hexagonal Architecture
-- Clean Architecture principles
-- Dependency inversion
-- Infrastructure isolation
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### Distributed Systems
-- Event-Driven Architecture
-- Asynchronous processing
-- Microservices decomposition
-- Failure-aware boundaries
-
-</td>
-<td width="50%">
-
-#### Engineering Standards
-- Test-Driven Development
-- Architectural code reviews
-- Standardization across teams
-- Legacy refactoring strategies
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔬 System Design Approach
-
-```text
-1. Model the domain before writing infrastructure.
-2. Protect the core with clear boundaries.
-3. Keep external dependencies replaceable.
-4. Design assuming failure.
-5. Optimize after correctness and clarity.
-```
-
----
 
 # 🧰 Technical Stack
 
@@ -113,15 +41,6 @@ flowchart LR
 
 ---
 
-# 🧠 Engineering Philosophy
-
-Architecture is a business decision.  
-Performance problems are usually design problems.  
-Systems must scale without increasing operational stress.  
-Maintainability is a long-term competitive advantage.
-
----
-
 # 🎯 Current Technical Focus
 
 - Event-driven system design
@@ -129,7 +48,9 @@ Maintainability is a long-term competitive advantage.
 - Production observability
 - Legacy modernization at scale
 - High-performance backend services
+- FrontEnd is not just functions and components
 
+  
 ---
 
 <div align="center">
